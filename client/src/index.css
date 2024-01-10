@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+body{
+    background-color: #000;
+    margin:0;
+    padding: 24px 5% 8px 5%;
+    min-height: 100%;
+}
